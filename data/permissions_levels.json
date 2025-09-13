@@ -1,0 +1,14 @@
+{
+  "command_of_project": 1,
+  "helper": 1,
+  "senior_helper": 5,
+  "junior_moderator": 10,
+  "moderator": 15,
+  "senior_moderator": 20,
+  "junior_admin": 25,
+  "admin": 30,
+  "senior_admin": 35,
+  "chief_admin": 40,
+  "curator": 45,
+  "chief_curator": 50
+}
